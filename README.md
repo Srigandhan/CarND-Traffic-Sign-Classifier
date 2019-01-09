@@ -17,7 +17,7 @@ To meet specifications, the project will require submitting three files:
 
 Writeup
 ---
-The write up for this project can be found [here] (./Write_Up_Traffic_Sign_Classifier.pdf)
+The write up for this project can be found [here](./Write_Up_Traffic_Sign_Classifier.pdf)
 
 The Project
 ---
